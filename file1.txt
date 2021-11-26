@@ -1,2 +1,3 @@
 Hello World - This is the first change.
 This is second change from branch b2 (section 15).
+Section 24 - updating 1, deleting 2. (commit b3-3)
