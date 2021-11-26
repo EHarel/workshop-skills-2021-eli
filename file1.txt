@@ -1,1 +1,2 @@
 Hello World - This is the first change.
+This is second change from branch b2 (section 15).
